@@ -12,3 +12,5 @@ I am Priyadharshini, an Associate Engineer with a specialization in computer vis
 With a background in Information Technology and Data Science, I have worked on various machine learning and deep learning projects, and I'm excited to share my knowledge and experiences with the community.
 
 Join me on this journey as we uncover the wonders of computer vision and its transformative impact on technology and society.
+
+https://medium.com/@priyadharshinikalidassk/ai-visionaries-exploring-the-wonders-of-computer-vision-eaff80f0dd22
